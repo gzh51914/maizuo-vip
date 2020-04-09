@@ -1,0 +1,55 @@
+{
+    "status": 0,
+    "data": {
+        "films": [
+            {
+                "filmId": 3451,
+                "name": "阿凡达2",
+                "poster": "https://pic.maizuo.com/usr/movie/c5da4eddf824824c21f42aebd4f4120f.jpg",
+                "actors": [
+                    {
+                        "name": "萨姆·沃辛顿",
+                        "role": "杰克·萨利",
+                        "avatarAddress": "https://pic.maizuo.com/usr/100003451/df050071a829cb47d7612e1e4c3f8b37.jpg"
+                    },
+                    {
+                        "name": "佐伊·索尔达娜",
+                        "role": "奈蒂莉",
+                        "avatarAddress": "https://pic.maizuo.com/usr/100003451/a457d0e419128720688a6d11712db4b4.jpg"
+                    },
+                    {
+                        "name": "西格妮·韦弗",
+                        "role": "格蕾丝·奥格斯",
+                        "avatarAddress": "https://pic.maizuo.com/usr/100003451/2ebc1d29d21743c960de288930921814.jpg"
+                    },
+                    {
+                        "name": "史蒂芬·朗",
+                        "role": "迈尔斯·夸奇上校",
+                        "avatarAddress": "https://pic.maizuo.com/usr/100003451/368a975d10ee8e0bf30b5d5906fb6527.jpg"
+                    }
+                ],
+                "director": "詹姆斯·卡梅隆",
+                "category": "动作|科幻|奇幻|冒险",
+                "synopsis": "《阿凡达2》的剧情承接自第一部的5年之后。曾经的地球残疾军人杰克·萨利，如今已经是潘多拉星球纳美族一方部族的族长，并且与爱妻娜塔莉共同育有一对可爱的儿女，日子过得平淡而充实。然而某天，有个部族的兄弟在海岸附近巡逻时遭到利器割喉身亡。通过现场勘查，以及作为前海军陆战队员的敏锐直觉，杰克判断已经有人类的阿凡达混入了部落……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国",
+                "language": "英语",
+                "videoId": "",
+                "premiereAt": 1608249600,
+                "timeType": 3,
+                "runtime": 90,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            }
+        ],
+        "total": 1
+    },
+    "msg": "ok"
+}
